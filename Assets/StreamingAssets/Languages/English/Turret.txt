@@ -1,0 +1,7 @@
+﻿Inclination: 
+Bearing: 
+Ammo Type: 
+Ammo Qty:
+Fire Mode: 
+Target Mode: 
+Turret: 

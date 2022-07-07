@@ -1,0 +1,20 @@
+﻿Forward
+Reverse
+RPM
+Gear 
+Rudder Possition
+Fuel 
+Throttle 
+Speed
+Mph
+MaxRpm
+X
+Game Over
+You Beached her!
+You ran out of fuel!
+You ran out of time!
+You got all the cans congratulations on a great job!
+ Cans hit
+Bearing
+Inclination
+Turret 
